@@ -14,6 +14,8 @@ Currently I have developed some personal projects with the **Python** language �
 
 I also had the opportunity to do some projects with **API PHP** and **JSON**, I have been improving my knowledge in **JS**, **NodeJs**, **Java**, **Git**, **Scrum** and **SQL**
 
+[My LinkedIn](https://www.linkedin.com/in/denilson-márcio-640b34120)
+[denilsonmarcio.github.io](https://denilsonmarcio.github.io/)
 <!--
 **DenilsonMarcio/DenilsonMarcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
