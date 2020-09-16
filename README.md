@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello people !!!
+## My name is Denilson Márcio, but you can call me Dennis.
+
+I have a degree in Systems Analysis and Development from the Faculty of Technology of São Paulo - Fatec Zona Sul.
+
+Married, and father of a beautiful little girl named Lívia, 3 years old.
+
+Passionate about technology and computers since a very young age, I decided to direct my studies to the area of software development.
+
+Currently I have developed some personal projects with the Python language, which I confess I am really enjoying.
 
 <!--
 **DenilsonMarcio/DenilsonMarcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
