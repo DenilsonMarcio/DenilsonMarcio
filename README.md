@@ -15,7 +15,7 @@ Currently I have developed some personal projects with the **Python** language ð
 I also had the opportunity to do some projects with **API PHP** and **JSON**, I have been improving my knowledge in **JS**, **NodeJs**, **Java**, **Git**, **Scrum** and **SQL**
 
 ### My Informations
-[My LinkedIn](https://www.linkedin.com/in/denilson-mÃ¡rcio-640b34120)
+[My LinkedIn](https://www.linkedin.com/in/denilsonmarcio/)
 ### My Website Github.io
 [denilsonmarcio.github.io](https://denilsonmarcio.github.io/)
 <!--
