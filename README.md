@@ -1,6 +1,6 @@
 # Hello people !!!
 
-![Root Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Root Developer](https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif)<!--(https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)-->
 
 ## My name is Denilson Márcio, but you can call me Dennis 🤘.
 
