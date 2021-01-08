@@ -21,6 +21,13 @@ Currently I have developed some personal projects with the **Python** language ð
 
 I also had the opportunity to do some projects with **API PHP** and **JSON**, I have been improving my knowledge in **JS**, **NodeJs**, **Java**, **Git**, **Scrum** and **SQL**
 
+<a href="https://www.linkedin.com/in/denilsonmarcio/"> 
+  LinkedIn |
+</a>
+<a href="https://denilsonmarcio.netlify.app/"> 
+  Website Profile
+</a>
+
 ### Stats
 <a href="https://github.com/DenilsonMarcio/github-readme-stats">
   <img align="center" 
@@ -30,8 +37,3 @@ I also had the opportunity to do some projects with **API PHP** and **JSON**, I 
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonMarcio&layout=compact&theme=merko&bg_color=4a4d4b&hide=C%23"/>
 </a>
-
-### My Informations
-[My LinkedIn](https://www.linkedin.com/in/denilsonmarcio/)
-### My Website Github.io
-[denilsonmarcio.github.io](https://denilsonmarcio.github.io/)
