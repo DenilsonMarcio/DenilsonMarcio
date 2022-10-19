@@ -31,9 +31,9 @@ I also had the opportunity to do some projects with **API PHP** and **JSON**, I 
 ### Stats
 <a href="https://github.com/DenilsonMarcio/github-readme-stats">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=DenilsonMarcio&show_icons=true&theme=merko&bg_color=4a4d4b&include_all_commits=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=DenilsonMarcio&show_icons=true&theme=merko&bg_color=000000&include_all_commits=false"/>
 </a>
 <a href="https://github.com/DenilsonMarcio/github-readme-stats">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonMarcio&layout=compact&theme=merko&bg_color=4a4d4b&hide=C%23"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonMarcio&layout=compact&theme=merko&bg_color=000000&hide=C%23"/>
 </a>
