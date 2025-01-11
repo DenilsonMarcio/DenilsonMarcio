@@ -1,6 +1,6 @@
 # Hello people !!!
 
-![Root Developer](https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif)<!--(https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)-->
+![Root Developer](https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif) 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
@@ -8,6 +8,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 ## My name is Denilson Márcio, but you can call me Dennis 🤘.
 
@@ -23,19 +24,15 @@ I also had the opportunity to do some projects with **API Rest** and **JSON**, I
 
 I am also certified **AWS Developer Associate** ☁️
 
-<a href="https://www.linkedin.com/in/denilsonmarcio/"> 
-  LinkedIn |
-</a>
-<a href="https://denilsonmarcio.netlify.app/"> 
-  Website Profile
-</a>
-
 ### Stats
-<a href="https://github.com/DenilsonMarcio/github-readme-stats">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=DenilsonMarcio&show_icons=true&theme=merko&bg_color=000000&include_all_commits=false"/>
-</a>
-<a href="https://github.com/DenilsonMarcio/github-readme-stats">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonMarcio&layout=compact&theme=merko&bg_color=000000&hide=C%23"/>
-</a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenilsonMarcio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonMarcio&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilsonmarcio/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://denilsonmarcio.netlify.app/) 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:denilsonmarcio@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5512920007124)
+
+![Root Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
